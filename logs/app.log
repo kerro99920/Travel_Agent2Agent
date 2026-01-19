@@ -1,8 +1,0 @@
-SmartVoage - 2026-01-18 15:02:54,851 - INFO - TicketQueryServer 初始化完成
-SmartVoage - 2026-01-18 15:09:21,733 - INFO - TicketQueryServer 初始化完成
-SmartVoage - 2026-01-18 15:09:41,082 - INFO - TicketQueryServer 初始化完成
-SmartVoage - 2026-01-18 15:10:10,619 - INFO - OrderBookingServer 初始化完成
-SmartVoage - 2026-01-18 15:58:33,344 - INFO - TicketQueryServer 初始化完成
-SmartVoage - 2026-01-18 15:59:23,249 - INFO - OrderBookingServer 初始化完成
-SmartVoage - 2026-01-18 16:10:10,382 - ERROR - 处理异常: Error code: 401 - {'error': {'message': 'Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}, 'request_id': '0935ce11-6f39-945f-bff4-c0e228d1c234'}
-SmartVoage - 2026-01-18 16:10:16,296 - ERROR - 处理异常: Error code: 401 - {'error': {'message': 'Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}, 'request_id': '097f75b9-8a70-9dbe-b86a-efef4ca43ac2'}
